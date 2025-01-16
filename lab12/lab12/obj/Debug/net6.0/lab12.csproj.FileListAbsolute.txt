@@ -1,0 +1,29 @@
+C:\Users\aha haha\source\repos\lab12\lab12\bin\Debug\net6.0\lab12.exe
+C:\Users\aha haha\source\repos\lab12\lab12\bin\Debug\net6.0\lab12.deps.json
+C:\Users\aha haha\source\repos\lab12\lab12\bin\Debug\net6.0\lab12.runtimeconfig.json
+C:\Users\aha haha\source\repos\lab12\lab12\bin\Debug\net6.0\lab12.dll
+C:\Users\aha haha\source\repos\lab12\lab12\bin\Debug\net6.0\lab12.pdb
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfoInputs.cache
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfo.cs
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.csproj.CoreCompileInputs.cache
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.dll
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\refint\lab12.dll
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.pdb
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\lab12.genruntimeconfig.cache
+C:\Users\aha haha\source\repos\lab12\lab12\obj\Debug\net6.0\ref\lab12.dll
+C:\Users\user\source\repos\kasd\lab12\lab12\bin\Debug\net6.0\lab12.exe
+C:\Users\user\source\repos\kasd\lab12\lab12\bin\Debug\net6.0\lab12.deps.json
+C:\Users\user\source\repos\kasd\lab12\lab12\bin\Debug\net6.0\lab12.runtimeconfig.json
+C:\Users\user\source\repos\kasd\lab12\lab12\bin\Debug\net6.0\lab12.dll
+C:\Users\user\source\repos\kasd\lab12\lab12\bin\Debug\net6.0\lab12.pdb
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfo.cs
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.dll
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\refint\lab12.dll
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.pdb
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\lab12.genruntimeconfig.cache
+C:\Users\user\source\repos\kasd\lab12\lab12\obj\Debug\net6.0\ref\lab12.dll
