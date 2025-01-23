@@ -1,0 +1,14 @@
+C:\Users\aha haha\source\repos\lab14\lab14\bin\Debug\net6.0\lab14.exe
+C:\Users\aha haha\source\repos\lab14\lab14\bin\Debug\net6.0\lab14.deps.json
+C:\Users\aha haha\source\repos\lab14\lab14\bin\Debug\net6.0\lab14.runtimeconfig.json
+C:\Users\aha haha\source\repos\lab14\lab14\bin\Debug\net6.0\lab14.dll
+C:\Users\aha haha\source\repos\lab14\lab14\bin\Debug\net6.0\lab14.pdb
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.AssemblyInfoInputs.cache
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.AssemblyInfo.cs
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.csproj.CoreCompileInputs.cache
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.dll
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\refint\lab14.dll
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.pdb
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\lab14.genruntimeconfig.cache
+C:\Users\aha haha\source\repos\lab14\lab14\obj\Debug\net6.0\ref\lab14.dll
